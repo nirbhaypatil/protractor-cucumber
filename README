@@ -1,0 +1,14 @@
+
+Protractor example with cucumber.
+
+
+This example is based on guidelines provided in 
+https://semaphoreci.com/community/tutorials/getting-started-with-protractor-and-cucumber
+
+
+https://github.com/nirbhaypatil/centos7-protractorjs.git
+
+This vagrant repo can be used to create VM for protractor tests.
+
+
+
